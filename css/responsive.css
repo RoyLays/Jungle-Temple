@@ -1,0 +1,74 @@
+@media only screen and (max-width: 1185px){
+    .navlist{
+      flex-direction: column;
+    }
+    .navbar{
+      flex-direction: column;
+      transition: all 0.7s ease-out;
+      height: 720px;
+    }
+    .navright{
+      text-align: center;
+    }
+    .boxmain{
+      flex-direction: column-reverse;
+      max-width: 100%;
+    }
+    #search{
+      width: 100%;
+    }
+    .burger{
+      display: block;
+    }
+    .section{
+      flex-direction: column-reverse;
+    }
+    .h-nav-resp{
+      height: 62px;
+    }
+    .v-class-resp{
+      opacity: 0;
+    }
+    .textbig{
+      text-align: center;
+    }
+    .textsmall{
+      text-align: center;
+    }
+    .button{
+      text-align: center;
+    }
+    .sectionp{
+      text-align: center;
+      flex-direction: column;
+      height: 100%;
+      padding: 13px 0px
+    }
+    .text-center{
+      padding-top: 15px;
+    }
+    .form{
+      flex-direction: column;
+    }
+    .thumbnild img {
+      padding: 9px 9px;
+      margin: 4px 4px;
+    }
+    .form input{
+      padding: 11px 0px;
+      width: auto;
+      margin: 13px 6px;
+    }
+    .btn-dark{
+      width: 100%;
+      padding: 4px;
+    }
+    .paras{
+      padding: 0px 0px
+    }
+    #search{
+      margin: -6px;
+    }
+    
+    
+  }
