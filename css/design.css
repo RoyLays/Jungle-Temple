@@ -209,8 +209,11 @@ html{
 }
 .thumbnild img {
   border: 4px solid #008000ad;
+  width: 275px;
+  height: 275px;
   border-radius: 6px;
   padding: 4px 4px;
+  object-fit :cover;
   
 }
 .sectionSubTag {
